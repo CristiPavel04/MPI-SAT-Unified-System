@@ -1,4 +1,4 @@
-# MPI SAT Unified System
+# SAT Unified System
 
 **Overview**
 
@@ -40,10 +40,10 @@ To build and run this project, you will need:
 
 1.  **Clone the repository:**
     ```bash
-    git clone []()
-    cd MPI_SAT_Unified_System
+    git clone [https://github.com/CristiPavel04/MPI-SAT-Unified-System.git](https://github.com/CristiPavel04/MPI-SAT-Unified-System.git)
+    cd MPI-SAT-Unified-System
     ```
-    *(Please ensure `` is the correct repository URL. Update if different.)*
+    *(Please ensure `https://github.com/CristiPavel04/MPI-SAT-Unified-System.git` is the correct repository URL. Update if different.)*
 
 2.  Open the project in your preferred Integrated Development Environment (IDE) such as CLion, Visual Studio, or VS Code.
 
@@ -53,7 +53,7 @@ After cloning the repository:
 
 1.  Navigate into the cloned directory if you haven't already:
     ```bash
-    cd MPI_SAT_Unified_System
+    cd MPI-SAT-Unified-System
     ```
 2.  Create a build directory (if it doesn't exist) and navigate into it:
     ```bash
@@ -188,4 +188,4 @@ We welcome contributions! If you find bugs, have feature requests, or would like
 
 ## License
 
-This project is licensed under the MIT License - see the `LICENSE` file for full details
+This project is licensed under the MIT License - see the `LICENSE` file for full details.
